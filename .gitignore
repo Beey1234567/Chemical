@@ -3,3 +3,7 @@
 Thumbs.db
 
 thumbs.db
+
+# Source-code Junk
+
+.vscode/
